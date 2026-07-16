@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Environment variables
+.env
+
+# Data
+data/raw/
+data/processed/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+
+notebooks/sec-edgar-filings/

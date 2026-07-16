@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is the common stock par value for Apple?",
+        "expected_answer": "The common stock par value for Apple is $0.00001 per share.",
+        "expected_number": "0.00001"
+    },
+    {
+        "question": "How many total shares of common stock were authorized?",
+        "expected_answer": "There were 50,400,000 shares of common stock authorized.",
+        "expected_number": "50400000000"
+    },
+    {
+        "question": "What is the name of the exchange where Apple's common stock is registered?",
+        "expected_answer": "Apple's common stock is registered on The Nasdaq Stock Market LLC.",
+        "expected_number": null
+    }
+]
